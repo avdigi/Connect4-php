@@ -1,0 +1,75 @@
+////////////////////////////////////////////////
+
+Multi-user interactive turn-based environment - Connect 4
+
+////////////////////////////////////////////////
+
+Project Description:
+
+Ajax driven, compound document front end, PHP/MySQL 
+back ended turn-based environment developed for Connect 4. 
+
+////////////////////////////////////////////////
+
+Features:
+
+*Players will know who's turn it is (driven by Ajax/database)
+
+*lobby chat system
+
+*game board with remedial interaction (Tell the player information and help them)
+
+*keep track of the game  board state in the database, validate all moves with server.
+
+*turn in all work, and a mySQL dump of the database table along with a link to the working verison (secure.digiovanni.dev)
+
+
+
+GENERAL REQUIREMENTS:
+
+*redirection of browsers that this doesn't work in
+
+*All forms that bring in data MUST have validation on client and server side.
+
+*use cookies, session variables
+
+*works in all up to date browsers
+
+////////////////////////////////////////////////
+
+TODO:
+
+*Login System:
+    - Login Functionality - DONE
+    - Registration - DONE
+    - Registration sends an email
+    - Forget my password functionality
+    - Logout functionality - DONE
+    - Logout cleanly and disconnect when user is not active - done
+
+*Lobby System:
+    - See who is online - DONE
+    - join to public chatroom - DONE
+    - username for each Players - DONE
+    - clicking on them brings the challenge - DONE
+    - SEND CHAT TO DB NOT TEXT FILE
+    - create a private instance of lobby
+    - private chatroom in private instance of lobby
+
+*Game System:
+    - Develop the base game logic
+    - Load board state from database
+    - Players will know who's turn it is (driven by Ajax/database)
+    - When the other player is done, let the other player know
+    - Keep track of the game  board state in the database
+    - validate all moves with server.
+
+
+////////////////////////////////////////////////
+
+Questions for Teacher:
+
+- How to cleanly log out users?
+- Is my current chat system acceptable?
+- How do I create a private lobby with its own chatroom?
+- How do I even begin with ajax game state? I'm struggling.

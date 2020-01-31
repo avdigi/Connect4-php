@@ -1,0 +1,9 @@
+Exception caught @11:18:47 11.12.15
+    Message: An error occurred while setting up data
+    SQL: UPDATE checkers_game SET player0_pieceID=null, player0_boardI=null, player0_boardJ=null, player1_pieceID=null, player1_boardI=null, player1_boardJ=null WHERE game_id=?
+    File: /home/course/442/public_html/checkers/bizDataLayer/gameBizData.php
+    Line: 37
+    Trace: #0 /home/course/442/public_html/checkers/svcLayer/game/gameSvc.php(23): startData('38')
+#1 [internal function]: start('38', '129.21.133.237', NULL)
+#2 /home/course/442/public_html/checkers/mid.php(9): call_user_func('start', '38', '129.21.133.237', NULL)
+#3 {main}

@@ -1,0 +1,44 @@
+<b>avdigi</b> [<b>08:57:14</b>]: hello yall?????
+<b>newuser</b> [<b>08:57:46</b>]: oh hey
+<b>avdigi</b> [<b>08:57:51</b>]: sup bro
+<b>newuser</b> [<b>08:57:58</b>]: good man wbu?
+<b>avdigi</b> [<b>08:58:05</b>]: hanging in there
+<b>newuser</b> [<b>08:58:10</b>]: ya ya
+<b>avdigi</b> [<b>08:58</b>]: ye
+<b>avdigi</b> [<b>09:20</b>]: Yo
+<b>avdigi</b> [<b>09:20</b>]: Sup
+<b>avdigi</b> [<b>20:53</b>]: sadfsf
+<b>avdigi</b> [<b>20:54</b>]: sdfdsf
+<b>avdigi</b> [<b>20:54</b>]: 
+<b>avdigi</b> [<b>20:54</b>]: sdfsdf
+<b>avdigi</b> [<b>20:54</b>]: sdfsdf
+<b>avdigi</b> [<b>20:54</b>]: sdsdf
+<b>avdigi</b> [<b>20:54</b>]: av
+<b>avdigi</b> [<b>20:55</b>]: av
+<b>avdigi</b> [<b>20:55</b>]: av
+<b>avdigi</b> [<b>22:11</b>]: a
+<b>avdigi</b> [<b>22:11</b>]: a
+<b>avdigi</b> [<b>22:12</b>]: a
+<b>avdigi</b> [<b>05:28</b>]: 
+<b>avdigi</b> [<b>05:28</b>]: 
+<b>avdigi</b> [<b>05:39</b>]: 
+<b></b> [<b>18:59</b>]: jghf
+<b></b> [<b>18:59</b>]: dfg
+<b></b> [<b>19:01</b>]: hi
+<b></b> [<b>19:02</b>]: hi
+<b></b> [<b>19:02</b>]: hi
+<b></b> [<b>19:02</b>]: kjg
+<b></b> [<b>19:02</b>]: kjg
+<b></b> [<b>19:04</b>]: jhg
+<b></b> [<b>19:04</b>]: okjhn
+<b><?php echo $username; ?></b> [<b>00:35</b>]: 
+<b><?php echo $username; ?></b> [<b>00:36</b>]: dsf
+<b><?php echo $username; ?></b> [<b>00:36</b>]: 
+<b><?php echo $username; ?></b> [<b>00:36</b>]: 
+<b><?php echo $username; ?></b> [<b>01:12</b>]: 
+<b><?php echo $username; ?></b> [<b>01:12</b>]: sfafsdsdfdfs
+<b><?php echo $username; ?></b> [<b>02:41</b>]: hi
+<b><?php echo $username; ?></b> [<b>02:42</b>]: hey
+<b><?php echo $username; ?></b> [<b>02:42</b>]: yello
+<b><?php echo $username; ?></b> [<b>02:43</b>]: about time this works
+<b><?php echo $username; ?></b> [<b>19:50</b>]: not bad
